@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculateur IMC</string>
+    <string name="app_title">Calculateur IMC</string>
+    <string name="weight_hint">Poids (kg)</string>
+    <string name="height_hint">Taille (cm)</string>
+    <string name="calculate_bmi">Calculer IMC</string>
+    <string name="bmi_label">Indice de Masse Corporelle</string>
+
+    <!-- BMI Categories -->
+    <string name="underweight">Insuffisance pondérale</string>
+    <string name="normal_weight">Poids normal</string>
+    <string name="overweight">Surpoids</string>
+    <string name="obesity">Obésité</string>
+    <string name="severe_obesity">Obésité sévère</string>
+</resources>

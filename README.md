@@ -28,10 +28,6 @@ BMI Calculator (Calculateur IMC) is a modern Android application that allows use
 ![Overweight Result](screenshots/overweight_result.png)
 *Example of overweight category result*
 
-### Different Categories
-![BMI Categories](screenshots/all_categories.png)
-*Visual representation of all BMI categories*
-
 ## 🛠️ Technical Details
 
 ### Development Environment
